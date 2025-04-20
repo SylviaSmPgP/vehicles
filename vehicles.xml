@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="vehicles-report.xsl"?>
+<?xml-stylesheet type="text/xsl" href="vehicles-report.xsl"?><?xml-stylesheet type="text/xsl" href="vehicles-report.xsl"?>
 <concessionari xmlns:xlink="http://www.w3.org/1999/xlink">
   … resto de tu XML …
 </concessionari>
