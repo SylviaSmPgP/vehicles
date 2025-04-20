@@ -3,7 +3,6 @@
 <concessionari xmlns:xlink="http://www.w3.org/1999/xlink">
   … resto de tu XML …
 </concessionari>
-<concessionari xmlns:xlink="http://www.w3.org/1999/xlink">
   <vehicle id="V001">
     <marca>Tesla</marca>
     <model>Model S</model>
