@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="vehicles-report.xsl"?>
+<concessionari xmlns:xlink="http://www.w3.org/1999/xlink">
+  …  
+</concessionari>
 <?xml-stylesheet type="text/xsl" href="vehicles-report.xsl"?>
 <concessionari xmlns:xlink="http://www.w3.org/1999/xlink">
   …  <concessionari xmlns:xlink="http://www.w3.org/1999/xlink">
